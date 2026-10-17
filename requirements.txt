@@ -38,7 +38,7 @@ scipy==1.17.1
 six==1.17.0
 sympy==1.14.0
 threadpoolctl==3.7.0
-torch==2.14.1+cu126
-torchvision==0.29.1+cu126
+torch==2.14.1
+torchvision==0.29.1
 tqdm==4.70.1
 typing_extensions==4.16.0
