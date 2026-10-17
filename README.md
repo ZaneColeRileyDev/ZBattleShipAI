@@ -98,6 +98,15 @@ from the repository root:
 .\build_pygame_app.bat
 ```
 
+## Build Linux Binaries
+```bash
+sh build_pygame_app.sh
+```
+
+```bash
+sh build_console_app.sh
+```
+
 The Pygame build is created at
 `dist/BattleshipPyGame/BattleshipPygame.exe`.
 
